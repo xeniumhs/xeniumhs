@@ -43,8 +43,6 @@
 
 ###
 
-## 🔥 GitHub Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=xeniumhs&theme=tokyonight)](https://git.io/streak-stats)
 
 ###
