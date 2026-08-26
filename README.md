@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Xenium</h1>
 
 <p align="center">
@@ -6,6 +5,13 @@
 </p>
 
 <h3 align="center">Computer Engineering Student | AI/ML Enthusiast | Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/xeniumhs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=xeniumhs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -23,9 +29,6 @@
 
 I enjoy building **practical, scalable applications** and exploring how **AI can be integrated into modern web applications**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Developer GIF" />
-</p>
 
 ---
 
