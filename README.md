@@ -7,13 +7,6 @@
 
 <h3 align="center">Computer Engineering Student | AI/ML Enthusiast | Full-Stack Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/xeniumhs/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=xeniumhs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
