@@ -1,64 +1,193 @@
-<h2 align="left">Hi 👋! My name is Xenium and I'm a Computer Engineering Student.</h2>
 
-###
+<h1 align="center">Hi 👋, I'm Xenium</h1>
 
-<p align="left">Hello World!!</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggACoQz8A/giphy.gif" width="300" alt="Coding GIF" />
+</p>
 
-###
+<h3 align="center">Computer Engineering Student | AI/ML Enthusiast | Full-Stack Developer</h3>
 
-<div style="display: flex; gap: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=xeniumhs&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniumhs&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/xeniumhs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=xeniumhs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
+---
 
-###
+## 👨‍💻 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+```text
+🎓 Computer Engineering Student
+🤖 Interested in AI/ML & Generative AI
+🌐 Full-Stack Web Developer
+🐍 Python & Django Backend Developer
+⚛️ MERN Stack Developer
+🗄️ PostgreSQL & MongoDB
+🐳 Docker & Containerization
+```
+
+I enjoy building **practical, scalable applications** and exploring how **AI can be integrated into modern web applications**.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Developer GIF" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+</p>
 
-###
+### 🌐 Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+</p>
+
+### 🐳 Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
+
+---
+
+## 🚀 MERN Stack
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express.js" />
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+
+</p>
+
+<p align="center">
+  <b>MongoDB · Express.js · React · Node.js</b>
+</p>
+
+---
+
+## 🤖 Currently Exploring
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2YiXr8H0p2X9S/giphy.gif" width="250" alt="AI GIF" />
+</p>
+
+<table>
+<tr>
+<td>🧠 <b>Generative AI</b></td>
+<td>🔎 <b>RAG & Embeddings</b></td>
+</tr>
+<tr>
+<td>🗄️ <b>Vector Databases</b></td>
+<td>🐳 <b>Docker</b></td>
+</tr>
+<tr>
+<td>🐍 <b>Python & Django</b></td>
+<td>🐘 <b>PostgreSQL & pgvector</b></td>
+</tr>
+<tr>
+<td>🔐 <b>Authentication & APIs</b></td>
+<td>⚛️ <b>Full-Stack Development</b></td>
+</tr>
+</table>
+
+---
+
+## 💡 What I Build
+
+* 🤖 AI-powered applications
+* 🌐 Full-stack web applications
+* 🧠 RAG-based systems
+* 🔐 Authentication & REST APIs
+* 🗃️ Database-driven applications
+* 🐳 Containerized applications with Docker
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/xeniumhs/count.svg?"  />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xeniumhs&theme=tokyonight" alt="GitHub Profile Summary" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVkZ3dqNndud20xdWcyaXRqeHFzc2FlcHpzYjIwMDd3dzlvb2Q3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+## 🔥 GitHub Streak
 
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xeniumhs&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=xeniumhs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-###
-
-![GitHub last commit](https://img.shields.io/github/last-commit/xeniumhs/xeniumhs?label=Last%20Commit&color=blue&style=for-the-badge)
-
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/xeniumhs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/xeniumhs/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building • Learning • Exploring
+
+<b>“Turning ideas into reality, one project at a time.”</b>
+
+<br><br>
+
+<img src="https://img.shields.io/github/last-commit/xeniumhs/xeniumhs?label=Last%20Commit&style=for-the-badge" />
+
+</div>
